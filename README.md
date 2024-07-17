@@ -8,6 +8,10 @@
 
 -4 Step: npm install
 
--5: Add .env file to LiveCoinWatch-Client folder and add credentials that are provided to it
+-5: Add .env file to LiveCoinWatch-Client folder and add credentials that are provided below
+
+``
+REACT_APP_BASE_URL='http://localhost:8081/api'
+``
 
 -6 Step: npm run dev
