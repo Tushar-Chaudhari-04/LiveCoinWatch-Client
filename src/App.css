@@ -1,0 +1,20 @@
+.crypto-info {
+  background-color: #000000;
+  height: 110vh;
+  padding: 2rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.crypto-table {
+  background-color: rgb(177, 175, 164);
+  /* background-color: #06D001; */
+  /* background-color: #06D001; */
+}
